@@ -5,6 +5,9 @@
 *.pot
 *.pyc
 *.pyo
+*.css
+*.svg
+*.js
 build/
 dist/
 helloworld.db
